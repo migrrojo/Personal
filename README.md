@@ -1,3 +1,2 @@
-# hello-world
-Este es mi primer repositorio
-y este es el primer cambio que hago
+# Repositorio personal
+En este repositorio subiré codigos en distintos lenguajes con fines educativos y de apoyo.
